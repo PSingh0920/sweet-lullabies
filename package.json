@@ -1,0 +1,27 @@
+{
+  "name": "sweet-lullabies",
+  "version": "1.0.0",
+  "description": "songs for sleeping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PSingh0920/sweet-lullabies.git"
+  },
+  "keywords": [
+    "baby",
+    "lullaby"
+  ],
+  "author": "Pritika Mirsa Areli Melissa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PSingh0920/sweet-lullabies/issues"
+  },
+  "homepage": "https://github.com/PSingh0920/sweet-lullabies#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.2"
+  }
+}
